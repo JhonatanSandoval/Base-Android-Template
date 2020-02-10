@@ -5,73 +5,60 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="67fe434a-7637-476f-a8e0-d2442da8ff6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/base-android-template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/pe/kreatec/basetemplate/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/Injector.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/component/AppComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/module/AppModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/module/AssistModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/scope/CoroutineScope.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/viewmodel/BaseViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/pe/kreatec/basetemplate/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildSrc/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Build.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Dependencies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/VersionCode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_61_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_61_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/module/NetworkModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/remote/Api.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/remote/repository/UserRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/remote/response/UserResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/remote/util/ApiResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/remote/util/SafeApiCall.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ext/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/binding/CustomBinders.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/list/BindingViewHolder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/adapter/UserAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1-milestone-2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1-milestone-2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/pe/kreatec/basetemplate/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/component/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/component/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/module/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/inject/module/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/viewmodel/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/util/ui/viewmodel/BaseViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/pe/kreatec/basetemplate/ux/main/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pe/kreatec/basetemplate/ExampleUnitTest.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +82,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
-        <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -114,12 +102,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_27_8.1" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-02-10T19:00:34.960Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="pe.kreatec.basetemplate.remote.repository" />
       <recent name="pe.kreatec.basetemplate.util.ui.viewmodel" />
       <recent name="pe.kreatec.basetemplate.ux.main" />
     </key>
@@ -144,7 +135,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -207,6 +198,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581091409392</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project structure">
+      <created>1581096684305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581096684305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,14 +215,40 @@
   <component name="WindowStateProjectService">
     <state x="517" y="319" key="#com.intellij.fileTypes.FileTypeChooser" />
     <state x="517" y="319" key="#com.intellij.fileTypes.FileTypeChooser/3360.2100" />
+    <state x="584" y="182" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="584" y="182" key="#com.intellij.ide.util.MemberChooser/3360.2100" />
     <state x="270" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" />
     <state x="270" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/3360.2100" />
+    <state x="515" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" />
+    <state x="515" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3360.2100" />
     <state x="541" y="122" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" />
     <state x="541" y="122" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/3360.2100" />
+    <state x="300" y="252" key="AndroidCreateResourceFileDialog" />
+    <state x="300" y="252" key="AndroidCreateResourceFileDialog/3360.2100" />
+    <state width="1628" height="463" key="GridCell.Tab.0.bottom" />
+    <state width="1628" height="463" key="GridCell.Tab.0.bottom/3360.2100" />
+    <state width="1628" height="463" key="GridCell.Tab.0.center" />
+    <state width="1628" height="463" key="GridCell.Tab.0.center/3360.2100" />
+    <state width="1628" height="463" key="GridCell.Tab.0.left" />
+    <state width="1628" height="463" key="GridCell.Tab.0.left/3360.2100" />
+    <state width="1628" height="463" key="GridCell.Tab.0.right" />
+    <state width="1628" height="463" key="GridCell.Tab.0.right/3360.2100" />
+    <state width="1628" height="349" key="GridCell.Tab.1.bottom" />
+    <state width="1628" height="349" key="GridCell.Tab.1.bottom/3360.2100" />
+    <state width="1628" height="349" key="GridCell.Tab.1.center" />
+    <state width="1628" height="349" key="GridCell.Tab.1.center/3360.2100" />
+    <state width="1628" height="349" key="GridCell.Tab.1.left" />
+    <state width="1628" height="349" key="GridCell.Tab.1.left/3360.2100" />
+    <state width="1628" height="349" key="GridCell.Tab.1.right" />
+    <state width="1628" height="349" key="GridCell.Tab.1.right/3360.2100" />
     <state x="212" y="76" key="SettingsEditor" />
     <state x="212" y="76" key="SettingsEditor/3360.2100" />
+    <state x="340" y="192" key="Vcs.Push.Dialog.v2" />
+    <state x="340" y="192" key="Vcs.Push.Dialog.v2/3360.2100" />
     <state x="553" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" />
     <state x="553" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate/3360.2100" />
+    <state width="750" height="530" key="javadoc.popup" />
+    <state width="750" height="530" key="javadoc.popup/3360.2100" />
     <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" />
     <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/3360.2100" />
   </component>

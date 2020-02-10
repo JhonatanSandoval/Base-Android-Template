@@ -81,6 +81,16 @@ android {
         }
     }
 
+    flavorDimensions("env")
+    productFlavors {
+        create("dev") {
+            buildConfigField("String", "BASE_URL", "\"http://randomuser.me/\"")
+        }
+        create("prd") {
+            buildConfigField("String", "BASE_URL", "\"http://randomuser.me/\"")
+        }
+    }
+
 }
 
 dependencies {
